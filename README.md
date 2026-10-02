@@ -16,7 +16,7 @@ The objective of this project to test RESTFul API using POSTMAN tool for the fun
 
 ## 🛠️ Tech Stack & Architecture
 * Postman, JSON and REST API 🚀
-live Link: https://the-internet.herokuapp.com/authenticate
+live Link: [https://the-internet.herokuapp.com/authenticate](https://reqres.in/api/login)
 
 ## ▶️ Run the Collection
 1. Install dependencies:
